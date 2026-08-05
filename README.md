@@ -1,0 +1,3 @@
+# 🛡️ Wazuh SIEM Lab
+
+Building...
