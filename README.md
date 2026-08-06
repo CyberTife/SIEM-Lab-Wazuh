@@ -52,7 +52,7 @@ The SIEM collects events from three different sources.
 
 ## Wazuh Dashboard
 
-![Dashboard](screenshots/dashboard-overview.png)
+![Dashboard](screenshots/siem-dashboard-overview.png)
 
 ---
 
