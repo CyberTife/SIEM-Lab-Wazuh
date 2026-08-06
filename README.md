@@ -245,3 +245,20 @@ I am transitioning into Cybersecurity with a focus on becoming a Security Operat
 I enjoy building hands-on labs, investigating security events, and documenting my learning journey through practical projects.
 
 Feel free to connect with me on LinkedIn or explore my other cybersecurity projects.
+
+---
+
+# 👤 Author
+
+**Boluwatife Makinde**
+
+Aspiring SOC Analyst | Cybersecurity Enthusiast | Former Product Designer transitioning into Blue Team operations.
+
+LinkedIn:
+
+www.linkedin.com/in/boluwatife-makinde-571ba3378
+
+GitHub:
+
+https://github.com/CyberTife
+
