@@ -228,14 +228,12 @@ If additional time and resources were available, I would:
 
 # 📄 Documentation
 
-Project Report
+This repository includes complete project documentation for both technical and presentation purposes.
 
-- SIEM Lab Project Report (PDF)
-
-Presentation
-
-- SIEM Lab Presentation (PowerPoint)
-
+| Document | Description |
+|----------|-------------|
+| 📘 [SIEM Lab Project Report](docs/SIEM-Lab-Project-Report.pdf) | A detailed technical report covering the lab architecture, deployment process, dashboards, detection rules, challenges encountered, and recommendations. |
+| 📊 [SIEM Lab Presentation](docs/SIEM-Lab-Presentation.pptx) | A presentation summarizing the project objectives, implementation, dashboards, detections, findings, and lessons learned. |
 ---
 
 # 👨‍💻 About Me
