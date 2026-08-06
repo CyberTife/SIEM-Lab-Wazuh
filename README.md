@@ -232,8 +232,8 @@ This repository includes complete project documentation for both technical and p
 
 | Document | Description |
 |----------|-------------|
-| 📘 [SIEM Lab Project Report](docs/SIEM-Lab-Project-Report.pdf) | A detailed technical report covering the lab architecture, deployment process, dashboards, detection rules, challenges encountered, and recommendations. |
-| 📊 [SIEM Lab Presentation](docs/SIEM-Lab-Presentation.pptx) | A presentation summarizing the project objectives, implementation, dashboards, detections, findings, and lessons learned. |
+| 📘 [SIEM Lab Project Report](docs/siem-lab-project-report.pdf) | A detailed technical report covering the lab architecture, deployment process, dashboards, detection rules, challenges encountered, and recommendations. |
+| 📊 [SIEM Lab Presentation](docs/siem-lab-presentation.pptx) | A presentation summarizing the project objectives, implementation, dashboards, detections, findings, and lessons learned. |
 ---
 
 # 👨‍💻 About Me
